@@ -207,8 +207,9 @@ Customer tier segmentation + Top customers
 
 
 📌 Tableau Public link:
+[View the Tableau Public Dashboard](https://public.tableau.com/app/profile/somesh.p8433/viz/Book1_17707052977860/Dashboard2?publish=yes)
+)
 
-(https://public.tableau.com/app/profile/somesh.p8433/viz/Book1_17707052977860/Dashboard2?publish=yes)
 
 ##  Key Takeaways / Insights (examples you can include)
 
