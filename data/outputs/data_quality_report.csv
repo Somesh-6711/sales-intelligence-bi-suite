@@ -1,0 +1,16 @@
+metric,value
+total_rows,541909
+distinct_invoices,25900
+distinct_customers_non_null,4372
+distinct_products,3958
+missing_customer_rows,135080
+missing_customer_pct,24.93
+cancellation_rows,9288
+cancellation_pct,1.71
+negative_quantity_rows,10624
+negative_quantity_pct,1.96
+zero_quantity_rows,0
+negative_price_rows,2
+null_invoice_date_rows,0
+date_range_start,2010-12-01 08:26:00
+date_range_end,2011-12-09 12:50:00
