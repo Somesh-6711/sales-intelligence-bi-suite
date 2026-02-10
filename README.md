@@ -194,13 +194,16 @@ Recency distribution
 
 Customer tier segmentation + Top customers
 
-📌 Add screenshots here:
+📌 ## Dashboards Screenshots
 
-C:\Users\100me\Projects\sales-intelligence-bi-suite\dashboards\tableau_dashboard_screenshots\01_executive_kpi.png.png
+### Executive KPI Overview
+![Executive KPI Overview](dashboards/tableau_dashboard_screenshots/01_executive_kpi.png)
 
-C:\Users\100me\Projects\sales-intelligence-bi-suite\dashboards\tableau_dashboard_screenshots\02_product_performance.png.png
+### Product Performance
+![Product Performance](dashboards/tableau_dashboard_screenshots/02_product_performance.png)
 
-C:\Users\100me\Projects\sales-intelligence-bi-suite\dashboards\tableau_dashboard_screenshots\03_customer_account_review.png.png
+### Customer / Account Review
+![Customer / Account Review](dashboards/tableau_dashboard_screenshots/03_customer_account_review.png)
 
 
 📌 Tableau Public link:
@@ -217,10 +220,3 @@ Cancellations and returns are present and must be filtered or handled separately
 
 Top products typically contribute a large share of revenue (Pareto-style concentration).
 
-Resume-ready bullets
-
-Built an end-to-end BI pipeline using Python + MySQL + Tableau Public to convert raw Excel transactions into curated KPI datasets and interactive dashboards.
-
-Developed SQL-based transformations to populate analytics tables (customers, products, orders, order_items) and exported automated reporting extracts.
-
-Implemented data profiling and quality checks (missing IDs, cancellations, returns) and documented KPI logic for transparent reporting.
